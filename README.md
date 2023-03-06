@@ -9,17 +9,19 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 ## Deploy Link Template 
 ```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
 ## Support Group 
-https://chat.whatsapp.com/EwyPMi8Hsm1JXiC77Ymcsf
+https://chat.whatsapp.com/C6jpJv7VGYDCrdpFk0LPbJ
 ## Join Our Community 
-https://chat.whatsapp.com/CwFuybm14L697Viv4fvbE3
+https://chat.whatsapp.com/C6jpJv7VGYDCrdpFk0LPbJ
 
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
 ##CYBERTRON GODZZZ SUPPORT GROUP 
+https://chat.whatsapp.com/C6jpJv7VGYDCrdpFk0LPbJ
 ## STEPS
 <br>
 
 1. Click [SCAN](https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+https://chat.whatsapp.com/C6jpJv7VGYDCrdpFk0LPbJ
 
 2. You will get a long text that needs after Frist step (session.json)
 
